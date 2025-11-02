@@ -53,7 +53,6 @@ The project is divided into four main Python classes/files:
 | `scoreboard.py` | Defines the `ScoreBoard` class, which displays the score, updates it, and shows the "GAME OVER" message. |
 
 ## ✒️ Author
-* [Your Name] - [Link to your LinkedIn/Portfolio]
+* gateri jeremiah - www.linkedin.com/in/gateri-jeremiah-ab2129320
 
-## 📄 License
-This project is licensed under the **MIT License** - see the `LICENSE.md` file (if you choose to create one) for details.
+
